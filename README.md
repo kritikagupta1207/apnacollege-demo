@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Kritika Gupta
+Author - Kritika Gupta (Student)
+
